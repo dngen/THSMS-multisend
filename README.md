@@ -11,6 +11,8 @@ THSMS Multi Number Sender
 # วิธีใช้งาน
 `เพิ่มเบอร์ใน number.txt`
 `แก้ไข path ของ number.txt ใน thsms.sh`
+
+# เรียกใช้
 `bash thsms.sh`
 
 by DeEn
