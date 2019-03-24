@@ -8,11 +8,16 @@
 THSMS Multi Number Sender
 เพื่อสามารถให้ส่งได้ครั้งละหลายเบอร์
 
-# วิธีใช้งาน
+# วิธีปรับแต่งก่อนใช้งาน
 `เพิ่มเบอร์ใน number.txt` <br />
-`แก้ไข path ของ number.txt ใน thsms.sh`
+`แก้ไข path ของ number.txt ใน thsms.sh`<br />
+`from=sender
+user=user
+from=from
+sms=message`<br />
+แก้ไขตามต้องการ
 
-# เรียกใช้
+# การเรียกใช้งาน
 `bash thsms.sh`
 
 by DeEn
