@@ -1,9 +1,9 @@
 #!/bin/bash
 file="yourfilepath/number.txt"
-from="sender"
-user="user"
-from="from"
-sms="message"
+from=sender
+user=user
+from=from
+sms=message
 while IFS= read -r number
 do
 	printf '%s\n' "$number"' Sent'
