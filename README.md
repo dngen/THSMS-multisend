@@ -9,7 +9,7 @@ THSMS Multi Number Sender
 เพื่อสามารถให้ส่งได้ครั้งละหลายเบอร์
 
 # วิธีใช้งาน
-`เพิ่มเบอร์ใน number.txt`
+`เพิ่มเบอร์ใน number.txt` <br />
 `แก้ไข path ของ number.txt ใน thsms.sh`
 
 # เรียกใช้
